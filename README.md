@@ -1,4 +1,4 @@
-## Cpmprehensive Sales Insight (2021 - 2022)
+## Comprehensive Sales Insight (2021 - 2022)
 
 ## Here are some additional tips for creating a sales dashboard in Power BI:
 
